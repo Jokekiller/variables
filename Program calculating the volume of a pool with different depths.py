@@ -2,7 +2,7 @@
 #25-09-2014
 #Programme calculating the volme of a pool with different depths
 
-print("This prgramme will calculate the volme of a pool with different depths")
+print("This program will calculate the volume of a pool with different depths")
 shallowEndDepth = float(input("Give the shallow end depth: "))
 deepEndDepth = float(input("Give the deep end depth:"))
 width = float(input("Give the width of the pool: "))
